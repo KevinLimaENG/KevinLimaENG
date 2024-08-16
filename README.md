@@ -1,35 +1,58 @@
-## Olá, eu sou Kevin 👋
+<h2 align="left">ABOUT ME</h2>
 
-Bem-vindo ao meu perfil do GitHub! Sou um engenheiro, apaixonado por tecnologia/programação/Análise de dados. Aqui você encontrará alguns dos meus projetos mais recentes e informações sobre minhas habilidades e interesses.
+###
 
-🚀 Sobre Mim
-🎓 Formação: Engenharia de Produção / Análise e desenvolvimento de sistemas
-💼 Trabalho Atual: Analista de planejamento de engenharia 
-🌍 Localização: Ce
-🌟 Interesses: Banco de dados - Machine learning - Programação - Industria 4.0 - Manufatura digital
-📧 Email: kevinlimaeng@gmail.com
+<p align="left">Bem-vindo ao meu perfil do GitHub! Sou um engenheiro, apaixonado por tecnologia/programação/Análise de dados. Aqui você encontrará alguns dos meus projetos mais recentes e informações sobre minhas habilidades e interesses.<br><br>🚀 Sobre Mim 🎓 Formação: Engenharia de Produção / Análise e desenvolvimento de sistemas <br>💼 Trabalho Atual: Analista de planejamento de engenharia<br>🌍 Localização: Ce <br>🌟 Interesses: Banco de dados - Machine learning - Programação - Industria 4.0 - Manufatura digital <br>📧 Email: kevinlimaeng@gmail.com</p>
 
-🛠️ Tecnologias e Ferramentas
-Aqui estão algumas das tecnologias e ferramentas com as quais trabalho regularmente:
+###
 
-Linguagens de Programação: JavaScript, Python, SimTalk
-Frameworks e Bibliotecas: React, Django, Flask
-Ferramentas: Docker, Git, CI/CD
-Banco de Dados: PostgreSQL, MongoDB
+<p align="left">TECHS</p>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-<!--
-**KevinLimaENG/KevinLimaENG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">STATS</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinLimaENG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinLimaENG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=KevinLimaENG&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinLimaENG&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/KevinLimaENG/KevinLimaENG/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">SOCIAL MEDIA</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kevin-lima-098a08187" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="kevinlimaeng@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
