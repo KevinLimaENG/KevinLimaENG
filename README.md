@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Bem-vindo ao meu perfil do GitHub! Sou um engenheiro, apaixonado por tecnologia/programação/Análise de dados. Aqui você encontrará alguns dos meus projetos mais recentes e informações sobre minhas habilidades e interesses.<br><br>🚀 Sobre Mim<br>🎓 Formação: Engenharia de Produção / Análise e desenvolvimento de sistemas <br>💼 Trabalho Atual: Analista de planejamento de engenharia<br>🌍 Localização: Ce <br>🌟 Interesses: Banco de dados - Machine learning - Programação - Industria 4.0 - Manufatura digital <br>📧 Email: kevinlimaeng@gmail.com</p>
+<p align="left">Bem-vindo ao meu perfil do GitHub! Sou um engenheiro, apaixonado por tecnologia/programação/Análise de dados. Aqui você encontrará alguns dos meus projetos mais recentes e informações sobre minhas habilidades e interesses.<br><br>🚀 Sobre Mim<br>🎓 Formação: Engenharia de Produção / Análise e desenvolvimento de sistemas <br>💼 Trabalho Atual: Analista de planejamento de engenharia<br>🌍 Localização: Ce <br>🌟 Interesses: Banco de dados - Machine learning - Programação - Industria 4.0 - Manufatura digital <br></p>
 
 ###
 
