@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Bem-vindo ao meu perfil do GitHub! Sou um engenheiro, apaixonado por tecnologia/programação/Análise de dados. Aqui você encontrará alguns dos meus projetos mais recentes e informações sobre minhas habilidades e interesses.<br><br>🚀 Sobre Mim<br>🎓 Formação: Engenharia de Produção / Análise e desenvolvimento de sistemas <br>💼 Trabalho Atual: Analista de planejamento de engenharia<br>🌍 Localização: Ce <br>🌟 Interesses: Banco de dados - Machine learning - Programação - Industria 4.0 - Manufatura digital <br>📧 Email: kevinlimaeng@gmail.com</p>
+<p align="left">Bem-vindo ao meu perfil do GitHub! Sou um engenheiro, apaixonado por tecnologia/programação/Análise de dados. Aqui você encontrará alguns dos meus projetos mais recentes e informações sobre minhas habilidades e interesses.<br><br>🚀 Sobre Mim<br>🎓 Formação: Engenharia de Produção / Análise e desenvolvimento de sistemas <br>💼 Trabalho Atual: Analista de planejamento de engenharia<br>🌍 Localização: Ce <br>🌟 Interesses: Banco de dados - Machine learning - Programação - Industria 4.0 - Manufatura digital</p>
 
 ###
 
@@ -40,25 +40,15 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kevin-lima-098a08187" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" target=”_blank” rel="noopener noreferrer"   />
+  <a href="https://www.linkedin.com/in/kevin-lima-098a08187"  target="_blank" rel="noopener noreferrer" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="kevinlimaeng@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" target=”_blank” rel="noopener noreferrer"   />
+  <a href="kevinlimaeng@gmail.com" target="_blank" rel="noopener noreferrer" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" target=”_blank” rel="noopener noreferrer"   />
+  <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<p align="left">Visitors</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KevinLimaENG/count.svg?"  />
 </div>
 
 ###
