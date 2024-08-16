@@ -35,10 +35,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KevinLimaENG/KevinLimaENG/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">SOCIAL MEDIA</p>
 
 ###
